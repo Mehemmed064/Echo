@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.navbar{
+    width: 100%;
+    background-color: #db2929;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 0px;
+}
+
+.navbar__title{
+    background-color: rgb(255, 255, 255);
+}
+
+.navbar__lists{
+    background-color: rgb(255, 255, 255);
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.banner__heading{
+    width: 350px;
+    height: 250px;
+    margin: auto;
+    background-color: salmon;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 30px;
+}
+
+.features{
+    width: 100%;
+    height: 600px;
+    background-color:#ffffff ;
+    display: flex;
+    align-items: center;
+    gap: 300px;
+    justify-content: center;
+}
+
+.features div{
+    width:550px;
+    height: 250px;
+    background-color: darkmagenta;
+    margin-right: 700px;
+}
+
+
+.two{
+    width: 100%;
+    height: 350px;
+    background-color:#ffffff ;
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    justify-content: center;
+}
+
+.two div{
+    width: 350px;
+    height: 200px;
+    background-color: darkmagenta;
+}
+
+
+.one{
+    width: 100%;
+    height: 350px;
+    background-color:#ffffff ;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+
+.one div{
+    width: 450px;
+    height: 200px;
+    background-color: darkmagenta;  
+    margin-left: 530px;
+}
+
+.three{
+    width: 100%;
+    height: 350px;
+    background-color:#ffffff ;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+
+.three div{
+    width: 350px;
+    height: 250px;
+    background-color: darkmagenta;  
+    margin-left: 900px; 
+}
+
+.four{
+    width: 100%;
+    height: 350px;
+    background-color:#ffffff ;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+
+.four div{
+    width: 400px;
+    height: 150px;
+    background-color: darkmagenta;  
+    margin-left: 80px; 
+}
+
+
+
